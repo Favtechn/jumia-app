@@ -1,0 +1,62 @@
+.ok{
+    background-color: #535357;
+    color: white;
+   
+    column-count: 4;
+}
+.re{
+    font-weight: 700;
+}
+.container{
+    padding-left: 25%;
+    height: 2500px;
+}
+.coll{
+    columns: 2;
+}
+.noml{
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+}
+.noml:hover{
+    color: orange;
+}
+.nomll{
+    font-weight: 600;
+    font-size: 30px;
+    cursor: pointer;
+}
+.nomlll{
+    font-weight: 600;
+    font-size: 70px;
+    cursor: pointer;
+}
+.nomll:hover ,.nomlll:hover{
+    color: orange;
+}
+
+.font{
+    font-weight: 500;
+    text-transform:uppercase;
+    width: 910px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

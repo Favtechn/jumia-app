@@ -1,0 +1,79 @@
+.make{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+}
+.text{
+    width: 1130px;
+    background-color: orange;
+    height: 110px;
+    
+
+}
+.conl{
+    background-color: white;
+    display: flex;
+    width: 1130px;
+    height: 400px;
+
+}
+.tain{
+   background-color: #F5F5F5;
+}
+.para{
+    
+    width:570px;
+}
+.warn{
+    border:2px solid orange;
+    border-radius: 8px;
+    background-color: orange;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: 600;
+    height: 30px;
+    box-shadow: 2px 2px 5px grey;
+}
+.list{
+    margin-left: 250px;
+}
+.noml{
+    font-weight: 600;
+    background-color: white ;
+    
+    font-weight: 600;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: 'Arial Narrow Bold';
+}
+.warn:hover {
+   background-color:  #E07E1B;
+}
+.mage{
+    height: 320px;
+    
+    padding-bottom: 9%;
+}
+.no{
+    padding-left: 8%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

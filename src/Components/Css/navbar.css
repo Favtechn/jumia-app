@@ -1,0 +1,117 @@
+.see{
+    margin-left: 10%;
+    
+}
+.vet{
+    font-size: 2rem;
+   
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+@media (max-width:1728px){
+    .vet{
+        font-weight: 700;
+    }
+}
+@media(max-width: 500px){
+    .vet{
+        /* font-size: 5px; */
+        font-weight: 100;
+    }
+    .to {
+        margin-right: 200px;
+    }
+}
+.to{
+    margin-right: 20%;
+}
+.lop{
+    font-size: 1.5rem;
+    border: 1px solid black ;
+    border-radius: 4px;
+    background-color: orange;
+    text-align: center;
+    
+    color: white;
+    border-width: 40x;
+    
+}
+.pol{
+    width: 40px;
+}
+
+.beg{
+    font-size: 30px;
+
+}
+.nom:hover{
+  color: orange;
+}
+.nom{
+    font-weight: 600;
+    font-size: 20px;
+}
+.for{
+    
+    width: 240%;
+    height: 45px;
+    border-radius: px;
+}
+.con{
+    display:flex;
+    margin-left: 3%;
+    width:60%;
+}
+.find{
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 4px;
+    width: 40%;
+    color: white;
+    margin-left: 2%;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.find:hover{
+   background-color: #E07E1B;
+}
+.beg{
+    color: red;
+}
+.warn{
+    border:2px solid orange;
+    /* border-radius: 8px; */
+    background-color: orange;
+    font-size: 20px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+    box-shadow: 2px 2px 5px grey;
+    
+    
+}
+.icon{
+    font-weight: 300px;
+    
+}
+.yesss{
+    background-color: red;
+}
+.il{
+    height: 90px;
+    font-weight: 600;
+}
+.noml{
+
+    text-align: center;
+   
+}
+.warn:hover {
+   background-color:  #E07E1B;
+}
+
+
+
+
+
+
+
+
